@@ -1,7 +1,42 @@
 
+.tabs {
+	height: 2em;
+	width: 15em;
+	margin-left: 15em;
+}
+
+li {
+	list-style: none;
+}
+
+
+.btnRed {
+	float: left;
+	font-size: 1em;
+	margin-bottom: 0em;
+	padding: 0.25em;
+}
+
+.btnGreen {
+	float: left;
+	font-size: 1em;
+	margin-bottom: 0em;
+	padding: 0.25em;
+}
+
+.btnBlue{
+	float: left;
+	font-size: 1em;
+	margin-bottom: 0em;
+	padding: 0.25em;
+}
+
+
+
 .textarea {
 	height: 20em;
-	border: 2px solid black;
-
+	width: 40em;
+	border: 1px solid black;
+	margin: 0 auto;
 }
 
